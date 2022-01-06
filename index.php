@@ -11,7 +11,7 @@
     <div class="main">
 
         <div class="top">
-<div class="headline" ><h1>Device Overview</h1></div>
+        <div class="headline" ><h1>Device Overview</h1></div>
         </div>
 
         <div class="nav"></div>
