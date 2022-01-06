@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(206, 206, 231);
+    height: 100vh;
+    width: 100%;
+}
+
+.main {
+    background-color: rgb(5, 5, 27);
+    width: 100%;
+    height: 150px;
+
+}
+
+.top {
+    background-color: rgb(255, 0, 21);
+    width: 100%;
+    height: 100px;
+   
+   }
+   .headline {
+
+    display: flex;
+    justify-content: center;
+   }
+
+
+.nav {
+    background-color: rgb(126, 66, 71);
+    width: 100%;
+    height: 50px;
+
+}
+.list {
+    background-color: rgb(219, 182, 186);
+    width: 100%;
+    height: 500px;
+   
+
+}
+.dev_table {
+    background-color: rgb(31, 53, 9);
+    height: 100%;
+padding: 30px;
+}
+.dev_title {  
+    background-color: rgb(42, 66, 17);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.dev_row {  
+    background-color: rgb(65, 107, 24);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+.clm1, .clm2, .clm3, .clm4, .clm5 {
+    background-color: rgb(116, 121, 111);
+    width: 20%;
+    height: 30px;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    font-size: 3ch;
+    font-family: 'Times New Roman', Times, serif;
+
+}
